@@ -1,0 +1,45 @@
+[
+    {
+        "name": "FineMoe Large Capacity Pencil Case",
+        "price": "629",
+        "image": "https://m.media-amazon.com/images/I/71w5j35YESS._AC_UL400_.jpg",
+        "link": "https://www.amazon.in/FineMoe-Capacity-Supplies-Compartments-Aesthetic/dp/B0B81XNZRP/ref=sr_1_1_sspa?keywords=school+things&qid=1680455623&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+    },
+   
+    {
+        "name": "Noise Pulse Go Buzz Smart Watch with Advanced Bluetooth Calling",
+        "price": "1799",
+        "image": "https://m.media-amazon.com/images/I/616XswkO90L._SY355_.jpg",
+        "link": "https://www.amazon.in/Noise-Bluetooth-Calling-Tracking-Detection/dp/B0B5LT655H?psc=1&pd_rd_w=0zWL6&content-id=amzn1.sym.fc9acbc2-2365-4c9c-acb0-1de396595557&pf_rd_p=fc9acbc2-2365-4c9c-acb0-1de396595557&pf_rd_r=430HBWAVT3QRWMXY7P1Z&pd_rd_wg=sl8jU&pd_rd_r=2233868e-62b1-4f55-a7de-4192855d9b26&ref_=sspa_dk_rhf_search_pt_sub_0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUk1SSjhBQUczTlJVJmVuY3J5cHRlZElkPUEwNDIzOTM5MUhCVUE1VUdCOUJIMCZlbmNyeXB0ZWRBZElkPUEwNDk3NjY2MU84UElUVVFJNzhUMCZ3aWRnZXROYW1lPXNwX3JoZl9zZWFyY2hfcGVyc29uYWxpemVkJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    },
+    {
+        "name": "ESnipe Mart Multi Functional Pencil Box for Kids",
+        "price": "399",
+        "image": "https://m.media-amazon.com/images/I/713lC8nfmQL._AC_UL400_.jpg",
+        "link": "https://www.amazon.in/ESnipe-Mart-Functional-Pencil-Space/dp/B0BG6FVJPB/ref=sr_1_54?keywords=school+things&qid=1680456180&sr=8-54"
+    },
+    {
+        "name": "STABILO Swing Cool Highlighter Pen Pastel",
+        "price": "795",
+        "image": "https://m.media-amazon.com/images/I/71xhaQr0MHL._SY550_.jpg",
+        "link": "https://www.amazon.in/STABILO-Swing-Cool-Highlighter-Pastel/dp/B079TKZ788/ref=pd_rhf_d_se_s_pd_crcd_sccl_2_1/260-1753252-9847420?pd_rd_w=FHMp4&content-id=amzn1.sym.dcf9b861-ea71-4cd9-870f-f1d20747f687&pf_rd_p=dcf9b861-ea71-4cd9-870f-f1d20747f687&pf_rd_r=54D2P4R6ZZ10H6N6A8FN&pd_rd_wg=7emby&pd_rd_r=4d1cd754-1974-452e-92b3-2273f6fa3bb7&pd_rd_i=B079TKZ788&psc=1"
+    },
+    {
+        "name": "Wembley High Speed Mini 1:24 Scale Rechargeable Remote Control car with Lithium Battery for Kids",
+        "price": "659",
+        "image": "https://m.media-amazon.com/images/I/61AD6VKjZDL._SY355_.jpg",
+        "link": "https://www.amazon.in/Wembley-High-Speed-Mini-Black-VERC3457/dp/B0BRCS5QQ2/ref=sr_1_25?crid=2VYL5KDCK4K4S&keywords=cars&qid=1680456619&sprefix=cars%2Caps%2C375&sr=8-25"
+    },
+    {
+        "name": "VARIYA ENTERPRISE Exclusive Alloy Metal Pull Back Die-cast Car ",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/41mJHkYv3iL._SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.in/VARIYA-ENTERPRISE-Exclusive-Alloy-Die-cast/dp/B0BC68YHRJ/ref=sr_1_52?crid=2VYL5KDCK4K4S&keywords=cars&qid=1680456619&sprefix=cars%2Caps%2C375&sr=8-52"
+    },
+    {
+        "name": "Maisto Yamaha 1/12 Miniature Bike",
+        "price": "1495",
+        "image": "https://m.media-amazon.com/images/I/71dUjh-N6vL._AC_UL400_.jpg",
+        "link": "https://www.amazon.in/Maisto-Scale-Special-Motorcycle-Yamaha/dp/B0008EJIYC/ref=sr_1_2?keywords=bike&qid=1680456982&sr=8-2"
+    }
+]
